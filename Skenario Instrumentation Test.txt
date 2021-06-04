@@ -1,0 +1,37 @@
+Skenario instrumentation test
+
+Menampilkan data movies :
+- Melakukan test untuk memastikan data pada rv_movies berhasil ditampilkan
+- Melakukan test untuk memastikan scroll rv_movies sampai pada data yang berada di posisi terakhir
+
+Menampilkan data detail movies :
+- Melakukan test klik pada data pertama yang ada di rv_movies
+- Melakukan test untuk memastikan data title berhasil tampil, dan sesuai dengan data yang ada.
+- Melakukan test untuk memastikan data duration berhasil tampil, dan sesuai dengan data yang ada.
+- Melakukan test untuk memastikan data overview berhasil tampil, dan sesuai dengan data yang ada.
+- Melakukan test untuk memastikan data year berhasil tampil, dan sesuai dengan data yang ada.
+
+Menampilkan data TV Shows:
+- Melakukan test untuk klik TabLayout dengan teks TV Shows
+- Melakukan test untuk memastikan data pada rv_tvshows berhasil ditampilkan
+- Melakukan test untuk memastikan scroll rv_tvshows sampai pada data yang berada di posisi terakhir
+
+Menampilkan data detail TV Shows:
+- Melakukan test untuk klik TabLayout dengan teks TV Shows
+- Melakukan test klik pada data pertama yang ada di rv_tvshows
+- Melakukan test untuk memastikan data title berhasil tampil, dan sesuai dengan data yang ada.
+- Melakukan test untuk memastikan data duration berhasil tampil, dan sesuai dengan data yang ada.
+- Melakukan test untuk memastikan data overview berhasil tampil, dan sesuai dengan data yang ada.
+- Melakukan test untuk memastikan data year berhasil tampil, dan sesuai dengan data yang ada.
+
+Menampilkan data favorite movies :
+- Melakukan test untuk klik TabLayout dengan teks Favorites
+- Melakukan test untuk klik TabLayout dengan teks Favorite Movies
+- Melakukan test untuk memastikan data pada rv_favorite_movies berhasil ditampilkan
+- Melakukan test untuk memastikan scroll rv_favorite_movies sampai pada data yang berada di posisi terakhir
+
+Menampilkan data favorite movies :
+- Melakukan test untuk klik TabLayout dengan teks Favorites
+- Melakukan test untuk klik TabLayout dengan teks Favorite TV Shows
+- Melakukan test untuk memastikan data pada rv_favorite_tvshows berhasil ditampilkan
+- Melakukan test untuk memastikan scroll rv_favorite_tvshows sampai pada data yang berada di posisi terakhir
